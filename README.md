@@ -1,0 +1,1 @@
+the root dir should contains a vgg weight file: imagenet-vgg-verydeep-19.mat
